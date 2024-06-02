@@ -1,0 +1,217 @@
+{
+  "students": [
+    {
+      "firstName": "Raj",
+      "lastName": "Rai",
+      "email": "rajrai@gmail.com",
+      "password": "111",
+      "phoneNumber": "8787878787",
+      "schoolName": "NVS School",
+      "address": "Tirupati",
+      "id": 1,
+      "normalQTotal": [
+        1,
+        6,
+        3,
+        7,
+        2,
+        3,
+        5,
+        8
+      ],
+      "assignmentsQTotal": [
+        1,
+        9
+      ]
+    }
+  ],
+  "NormalQuestions": [  
+    {
+      "question": "What is Java ?",
+      "answers": [
+        "vinayak",
+        "sarthak",
+        "somil",
+        "devesh"
+      ],
+      "correct": "vinayak",
+      "id": 1,
+      "status": "Pending",
+      "questionType": "MCQ" 
+    },
+    {
+      "question": "This is a Red color Car",
+      "correct": "Red",
+      "image": "",
+      "status": "Pending",
+      "questionType": "Fill",
+      "id": 6
+    },
+    {
+      "question": "Question - 1 ?",
+      "answers": [
+        "vinayak",
+        "sarthak",
+        "somil",
+        "devesh"
+      ],
+      "correct": "vinayak",
+      "id": 2,
+      "status": "Pending",
+      "questionType": "MCQ"
+    },
+    {
+      "question": "Hello",
+      "answers1": "Hi",
+      "answers2": "Hello",
+      "answers3": "Hey",
+      "answers4": "Good",
+      "answers": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "Good"
+      ],
+      "correct": "Hello",
+      "status": "Pending",
+      "questionType": "Audio",
+      "id": 3
+    },
+    {
+      "question": "Question - 23 ?",
+      "answers": [
+        "vinayak",
+        "sarthak",
+        "somil",
+        "devesh"
+      ],
+      "correct": "vinayak",
+      "id": 7,
+      "status": "Pending",
+      "questionType": "MCQ"
+    },
+    {
+      "question": "What is 2 X 2",
+      "answers1": "2",
+      "answers2": "22",
+      "answers3": "44",
+      "answers4": "4",
+      "answers": [
+        "2",
+        "22",
+        "44",
+        "4"
+      ],
+      "correct": "4",
+      "status": "Pending",
+      "questionType": "MCQ",
+      "id": 2
+    },
+    {
+      "question": "Hello",
+      "answers1": "Hi",
+      "answers2": "Hello",
+      "answers3": "Hey",
+      "answers4": "Good",
+      "answers": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "Good"
+      ],
+      "correct": "Hello",
+      "status": "Pending",
+      "questionType": "Audio",
+      "id": 3
+    },
+    {
+      "question": "My Friends",
+      "status": "Pending",
+      "questionType": "Essays",
+      "id": 4
+    },
+    {
+      "question": "This is a Red color Car",
+      "correct": "Red",
+      "image": "",
+      "status": "Pending",
+      "questionType": "Fill",
+      "id": 5
+    },
+    {
+      "question": "This is a bird",
+      "correct": "bird",
+      "image": "",
+      "status": "Pending",
+      "questionType": "Fill",
+      "id": 8
+    },
+    {
+      "question": "Color of sky is blue",
+      "correct": "blue",
+      "image": "",
+      "status": "Pending",
+      "questionType": "Fill",
+      "id": 10
+    }
+  ],
+  "AssignmentQuestions": [
+    {
+      "question": "What You Call Father's Father",
+      "answers1": "Father",
+      "answers2": "Uncle",
+      "answers3": "GrandFather",
+      "answers4": "Friend",
+      "answers": [
+        "Father",
+        "Uncle",
+        "GrandFather",
+        "Friend"
+      ],
+      "correct": "GrandFather",
+      "status": "Pending",
+      "questionType": "MCQ",
+      "id": 1
+    },
+    {
+      "question": "What You Call Father's Father",
+      "answers1": "Father",
+      "answers2": "Uncle",
+      "answers3": "GrandFather",
+      "answers4": "Friend",
+      "answers": [
+        "Father",
+        "Uncle",
+        "GrandFather",
+        "Friend"
+      ],
+      "correct": "GrandFather",
+      "status": "Pending",
+      "questionType": "Audio",
+      "id": 7
+    },
+    {
+      "question": "My Friend",
+      "status": "Pending",
+      "questionType": "Essays",
+      "id": 8
+    },
+    {
+      "question": "This is a bird",
+      "correct": "bird",
+      "image": "",
+      "status": "Pending",
+      "questionType": "Fill",
+      "id": 9
+    }
+  ],
+  "NormalStory": [
+    {
+      "images": "",
+      "title": "The Hare & the Tortoise",
+      "story": "A Hare was making fun of the Tortoise one day for being so slow.\n\n\"Do you ever get anywhere?\" he asked with a mocking laugh.\n\n\"Yes,\" replied the Tortoise, \"and I get there sooner than you think. I'll run you a race and prove it.\"\n\nThe Hare was much amused at the idea of running a race with the Tortoise, but for the fun of the thing he agreed. So the Fox, who had consented to act as judge, marked the distance and started the runners off.\n\nThe Hare was soon far out of sight, and to make the Tortoise feel very deeply how ridiculous it was for him to try a race with a Hare, he lay down beside the course to take a nap until the Tortoise should catch up.\n\nThe Tortoise meanwhile kept going slowly but steadily, and, after a time, passed the place where the Hare was sleeping. But the Hare slept on very peacefully; and when at last he did wake up, the Tortoise was near the goal. The Hare now ran his swiftest, but he could not overtake the Tortoise in time.",
+      "status": "Pending",
+      "id": 1
+    }
+  ]
+}
